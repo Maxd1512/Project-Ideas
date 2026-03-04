@@ -1,7 +1,7 @@
 # Project-Ideas
 Project Idea for Competiton
 
-# 🤖 Project: **“CulturaBot – The Interactive Cultural Guide”**
+# 🤖 Project: **“Culture Robot”**
 
 A robot that:
 
