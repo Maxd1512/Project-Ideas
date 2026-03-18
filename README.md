@@ -1,7 +1,7 @@
 # Project-Ideas
 Project Idea for Competiton
 
-# 🤖 Project: **“Culture Robot”**
+# Project: **“Culture Robot”**
 
 A robot that:
 
@@ -13,7 +13,7 @@ A robot that:
 
 ---
 
-## 🧠 Pick the Board
+## Pick the Board
 
 Use **Arduino MEGA**
 
@@ -25,13 +25,13 @@ UNO would struggle if stories get longer.
 
 ---
 
-## 🔩 How It Works
+## How It Works
 
-### 👀 IR Sensor
+### IR Sensor
 
 Detects when someone comes close.
 
-### 🖥 LCD Screen
+### LCD Screen
 
 Displays:
 
@@ -39,14 +39,14 @@ Displays:
 * “Choose a culture:”
 * Shows story text as it talks
 
-### 🤖 Servo Motor (SG90)
+### Servo Motor (SG90)
 
 Moves:
 
 * Head turns left/right while speaking
 * Or raises a tiny arm dramatically
 
-### 🔊 Buzzer
+### Buzzer
 
 Makes:
 
@@ -54,7 +54,7 @@ Makes:
 * Dramatic “ding” before story
 * Soft background rhythm during storytelling
 
-### 🧠 Optional Upgrade – Huskylens
+### Optional Upgrade – Huskylens
 
 You can make it:
 
@@ -63,7 +63,7 @@ You can make it:
 
 ---
 
-# 🏛 Example Theme (Since You're in Romania 👀)
+# Example Theme (Since You're in Romania 👀)
 
 ### Romanian Culture Mode:
 
@@ -74,48 +74,22 @@ You can make it:
   * Stories from **Transylvania**
 * Displays traditional patterns on LCD (ASCII art 👀)
 
-You could even 3D print:
-
-* A small traditional Romanian hat
-* Or a stylized folk pattern panel
-
----
-
-# 💡 Why This Is Original
-
-Other kids will do:
-
-* Line follower robot
-* Dancing robot
-* Obstacle robot
-
-YOU?
-
-You built a cultural storytelling machine.
-
-It mixes:
-
-* Technology
-* History
-* Identity
-* Interaction
-
 ---
 
 # 🇬🇷 Greece
 
-### 🏛 Mythology
+### Mythology
 
 * **Zeus** – King of the gods, throws lightning bolts.
 * **Athena** – Goddess of wisdom and strategy.
 * The legend of the **Minotaur** in the Labyrinth.
 
-👉 Robot line idea:
+ Robot line idea:
 “Welcome to Greece! Land of gods, heroes, and monsters. Beware… the Minotaur still waits in the Labyrinth.”
 
 ---
 
-### 🏛 Ancient Architecture
+### Ancient Architecture
 
 * The **Parthenon**
 * Built over 2,400 years ago in Athens.
@@ -124,7 +98,7 @@ Robot movement idea: servo turns slowly like it’s showing a monument.
 
 ---
 
-### 🎭 Theater
+### Theater
 
 * Greece invented drama and theater.
 * Tragedy and comedy masks.
@@ -136,7 +110,7 @@ Your robot could say:
 
 # 🇯🇵 Japan
 
-### 🗾 Samurai
+### Samurai
 
 * The warrior code: Bushido.
 * Honor, loyalty, discipline.
@@ -150,17 +124,17 @@ Robot line:
 
 ---
 
-### ⛩ Traditions
+### Traditions
 
 * Cherry blossom season (Sakura).
 * Tea ceremony.
 * Shinto shrines.
 
-You could display a little ASCII cherry blossom 🌸 on the LCD.
+You could display a little ASCII cherry blossom on the LCD.
 
 ---
 
-### 👹 Folklore
+### Folklore
 
 * Yokai (supernatural spirits).
 * Kitsune (fox spirit).
@@ -174,7 +148,7 @@ Spooky servo head turn = chef’s kiss.
 
 # 🇫🇷 France
 
-### 🗼 Landmarks
+### Landmarks
 
 * The **Eiffel Tower**
 * Built in 1889.
@@ -184,7 +158,7 @@ Robot line:
 
 ---
 
-### 🥖 Culture
+### Culture
 
 * Famous for art, fashion, and cuisine.
 * Croissants and baguettes.
@@ -194,7 +168,7 @@ Mention:
 
 ---
 
-### 🎨 Art
+### Art
 
 * The **Louvre Museum**
 * Home of the **Mona Lisa**
