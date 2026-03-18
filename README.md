@@ -3,6 +3,31 @@ Project Idea for Competiton
 
 # Project: **“Culture Robot”**
 
+Short Component List (clean & minimal)
+Required
+
+Arduino MEGA 2560
+
+IR Proximity Sensor
+
+16x2 LCD (with I2C module)
+
+SG90 Micro Servo
+
+Active Buzzer
+
+3x Push Buttons
+
+Small Breadboard
+
+3x 220Ω Resistors
+
+🔋 Power
+
+USB Power Bank or
+
+5V battery pack
+
 A robot that:
 
 * Detects when someone approaches
