@@ -22,7 +22,7 @@ Small Breadboard
 
 3x 220Ω Resistors
 
-🔋 Power
+**Power**
 
 USB Power Bank or
 
