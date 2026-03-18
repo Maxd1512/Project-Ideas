@@ -89,7 +89,7 @@ You can make it:
 
 ---
 
-# Example Theme (Since You're in Romania 👀)
+# Example Theme
 
 ### Romanian Culture Mode:
 
@@ -98,7 +98,7 @@ You can make it:
   * The legend of **Dracula**
   * The myth of **Mărțișor**
   * Stories from **Transylvania**
-* Displays traditional patterns on LCD (ASCII art 👀)
+* Displays traditional patterns on LCD (ASCII art)
 
 ---
 
