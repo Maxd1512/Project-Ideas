@@ -3,7 +3,8 @@ Project Idea for Competiton
 
 # Project: **“Culture Robot”**
 
-Short Component List (clean & minimal)
+**Short Component List**
+
 Required
 
 Arduino MEGA 2560
