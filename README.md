@@ -1,93 +1,36 @@
-# Project-Ideas
+# Project-Idea
 Project Idea for Competiton
 
-# Project: **“Culture Robot”**
+# Project: **“Kasane Teto”**
 
 **Short Component List**
 
 Required
 
-Arduino MEGA 2560
+Raspberry Pi Model 3 B 
 
-IR Proximity Sensor
+Breadboard
 
-16x2 LCD (with I2C module)
+Mini-Breadboard
 
-SG90 Micro Servo
+10K Resistors x10 
 
-Active Buzzer
+Cables (Male-Female and Male-Male)
 
-3x Push Buttons
+Buttons x10 (6x6mm)
 
-Small Breadboard
+Potentiometers x2
 
-3x 220Ω Resistors
+Standard Servos x2 
+Micro Servos x5
 
-**Power**
+DC Barrel Socket to Screw Terminals
+Nylon Paracord 
 
-USB Power Bank or
-
-5V battery pack
-
-A robot that:
-
-* Detects when someone approaches
-* Greets them
-* Asks them to choose a culture (Romanian, Japanese, Greek, etc.)
-* Tells a short myth, legend, or cultural fact
-* Moves while speaking like it has personality
-
+Fishing Line
+ LCD screen to show shit about culture
 ---
 
-## Pick the Board
-
-Use **Arduino MEGA**
-
-* More memory (for storing text/stories)
-* More pins
-* Easier expansion
-
-UNO would struggle if stories get longer.
-
----
-
-## How It Works
-
-### IR Sensor
-
-Detects when someone comes close.
-
-### LCD Screen
-
-Displays:
-
-* “Welcome to CulturaBot!”
-* “Choose a culture:”
-* Shows story text as it talks
-
-### Servo Motor (SG90)
-
-Moves:
-
-* Head turns left/right while speaking
-* Or raises a tiny arm dramatically
-
-### Buzzer
-
-Makes:
-
-* Attention sound when someone arrives
-* Dramatic “ding” before story
-* Soft background rhythm during storytelling
-
-### Optional Upgrade – Huskylens
-
-You can make it:
-
-* Only activate when it sees a face
-* Or react differently to different people
-
----
 
 # Example Theme
 
